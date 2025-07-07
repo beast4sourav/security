@@ -1,0 +1,8 @@
+install package.json from npm init -y
+then install all required packages like express bcrypt cookie-parser mailtrap dotenv jsonwebtoken mongoose crypto
+after that create index.js file in the backend folder 
+then create db folder and .env file
+after that create routes 
+11777047d16b45fc16f6c5d3f19335c6
+
+47029e696cd99f967e42d1144cac6d5d
